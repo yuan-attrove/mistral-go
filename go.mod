@@ -1,4 +1,4 @@
-module github.com/robertjkeck2/mistral-go
+module github.com/yuan-attrove/mistral-go
 
 go 1.21.4
 
